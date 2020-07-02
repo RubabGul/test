@@ -1,0 +1,54 @@
+body{
+    background: url(IMAGES/shopping-back.png) no-repeat;
+    background-size: cover;
+    color: ;
+}
+.form{
+    margin: auto !important;
+    width: 80%;
+    margin-left: 50px;
+    background-color:rgb(201, 204, 204) ;
+}
+#us{
+    padding-top: 15px;
+    //text-decoration: underline;
+    font-family: 'Sacramento', cursive; 
+}
+#us::first-letter{
+    font-size: 50px;
+}
+.mid{
+    height: 240px;
+    background-image:url(IMAGES/mainpage/bg-main1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px;
+    display: block;
+    margin-bottom: 20px !important;
+}
+.category{
+    height: 180px;
+    width: 180px;
+    background-color:rgb(197, 191, 191);
+    border: 5px solid darkgoldenrod;
+    margin: 23px;
+}
+.btn-group{
+    text-align: center;
+}
+.home{
+    margin: 0px;
+    margin-bottom: 10px !important;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    
+    color: gray;
+}
+a{
+    display: inline;
+}
+a2{
+    display:inline;
+}

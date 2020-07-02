@@ -1,0 +1,81 @@
+body{
+        background: url(IMAGES/shopping-back.png) no-repeat;
+        background-size: cover;
+        color: ;
+    }
+    
+    .form{
+        margin: auto !important;
+        width: 80%;
+        margin-left: 50px;
+        background-color:rgb(201, 204, 204) ;
+    }
+    .inputContainer i {
+        position: absolute;
+     }
+     .inputContainer {
+        width: 100%;
+        margin-bottom: 10px;
+     }
+     .icon {
+        padding: 13px;
+        padding-left: 17px !important;
+        color:rgb(94, 89, 89);
+       // color: rgb(49, 0, 128);
+        width: 70px;
+        margin-left: 20px;
+        text-align: left;
+     }
+     .Field {
+        padding-left: 25px;
+        text-align: left;
+        color:gray;
+     }
+     .email{
+        margin-right: 32px;
+     }
+
+    #us{
+        //margin-left: 40px;
+        padding-top: 15px;
+        //text-decoration: underline;
+        font-family: 'Sacramento', cursive; 
+    }
+    #us::first-letter{
+        font-size: 45px;
+    }
+    label{
+        margin-left: 50px;
+        font-weight: bold;
+    }
+    input{
+    border-radius: 10px;
+    border: 2px solid rgb(187, 179, 179);;
+    height: 25px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 7px;
+    }
+    button{
+    margin-left: 16%;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 200px;
+    border: 2px solid rgb(187, 179, 179);;
+    border-radius: 7px; 
+    }
+    .dont{
+        margin-top: 32px;
+        color: gray;
+    }
+    .reg{
+        margin-top: 32px;
+        color: black;
+        font-weight: bold;
+        text-decoration: underline;
+        margin-left: 0px;
+    }
+    .home{
+        margin-left: 40%;
+        margin-top: 10px;
+    }
